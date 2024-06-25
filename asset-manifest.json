@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/R-Rajasheker/Quiz-react.git/static/css/main.28e7a292.css",
-    "main.js": "/R-Rajasheker/Quiz-react.git/static/js/main.025772be.js",
-    "static/js/453.8ab44547.chunk.js": "/R-Rajasheker/Quiz-react.git/static/js/453.8ab44547.chunk.js",
-    "index.html": "/R-Rajasheker/Quiz-react.git/index.html",
-    "main.28e7a292.css.map": "/R-Rajasheker/Quiz-react.git/static/css/main.28e7a292.css.map",
-    "main.025772be.js.map": "/R-Rajasheker/Quiz-react.git/static/js/main.025772be.js.map",
-    "453.8ab44547.chunk.js.map": "/R-Rajasheker/Quiz-react.git/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/Quiz-react/static/css/main.28e7a292.css",
+    "main.js": "/Quiz-react/static/js/main.ece0c9c5.js",
+    "static/js/453.8ab44547.chunk.js": "/Quiz-react/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Quiz-react/index.html",
+    "main.28e7a292.css.map": "/Quiz-react/static/css/main.28e7a292.css.map",
+    "main.ece0c9c5.js.map": "/Quiz-react/static/js/main.ece0c9c5.js.map",
+    "453.8ab44547.chunk.js.map": "/Quiz-react/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28e7a292.css",
-    "static/js/main.025772be.js"
+    "static/js/main.ece0c9c5.js"
   ]
 }
